@@ -62,5 +62,6 @@ The Coffee Shop Sales Dashboard provides a comprehensive overview of business pe
 
 Screenshots / Demos Show what the dashboard looks like -
 https://github.com/siddhesh2113/Coffee-Shop-Sales/blob/main/Snapshot%20of%20coffe%20shop%20sales.png
+
 Example:
 https://github.com/siddhesh2113/Coffee-Shop-Sales/blob/main/Snapshot%20of%20coffe%20shop%20sales.png
