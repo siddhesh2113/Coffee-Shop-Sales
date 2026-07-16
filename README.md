@@ -61,3 +61,6 @@ Dashboard Overview
 The Coffee Shop Sales Dashboard provides a comprehensive overview of business performance through interactive KPI cards, sales trend charts, product analysis, and store performance visualizations. It displays essential metrics such as Total Orders (149.1K), Total Sales ($698.8K), Total Items Sold (214K), Total Products (80), and Store Locations (3). Users can explore sales by product, category, and store location, monitor monthly sales growth, and analyze product distribution using interactive charts and slicers. This dashboard helps stakeholders quickly identify business trends, optimize inventory management, and support data-driven strategic decisions.
 
 Screenshots / Demos Show what the dashboard looks like -
+https://github.com/siddhesh2113/Coffee-Shop-Sales/blob/main/Snapshot%20of%20coffe%20shop%20sales.png
+Example:
+https://github.com/siddhesh2113/Coffee-Shop-Sales/blob/main/Snapshot%20of%20coffe%20shop%20sales.png
